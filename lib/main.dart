@@ -24,7 +24,7 @@ class latihan1 extends StatelessWidget {
         ),
         floatingActionButton: FloatingActionButton(
           onPressed: () {},
-          backgroundColor: Colors.,
+          backgroundColor: Colors.red,
           child: Icon(Icons.add),
         ),
       ),
