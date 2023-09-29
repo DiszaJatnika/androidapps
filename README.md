@@ -1,6 +1,6 @@
 # androidapps
 
-Membutuhkan versi dart sdk xxxxxx
+Membutuhkan versi dart sdk xxxxx
 
 cara menginstal 
 - git clone namaprject
